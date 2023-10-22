@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "ethers": "^6.7.1",
+    "http": "^0.0.1-security"
+  }
+}
